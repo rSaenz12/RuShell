@@ -25,7 +25,7 @@ Files in Directory:
 - commandExecuter.h
 - parser.cpp
 - parser.h
--Makefile
+- Makefile
 
 Instructions:
 1. Make a directory
